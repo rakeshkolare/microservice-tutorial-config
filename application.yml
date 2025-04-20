@@ -1,3 +1,7 @@
+spring:
+ application:
+  name: CONFIG-DEFAULT
+  
 #Eureka related config
 eureka:
   instance:
@@ -8,6 +12,4 @@ eureka:
      service-url:
        defaultZone: http://localhost:8761/eureka 
 
-spring:
- application:
-  name: CONFIG-DEFAULT
+
