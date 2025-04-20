@@ -1,7 +1,4 @@
-spring:
- application:
-  name: CONFIG-DEV
-  
+ 
 #Eureka related config
 eureka:
   instance:
